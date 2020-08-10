@@ -1,12 +1,13 @@
 const mongoose = require("mongoose");
+const logger = require("morgan");
 const path = require("path");
-const logger = require("logger");
+
 const express = require("express");
 
-let Fitness = require("../fitness.js"); 
+let Fitness = require("./fitness.js"); 
 
 
-const PORT = process.env.PORT || 3005;
+const PORT = process.env.PORT || 9000;
 
 const app = express();
 
