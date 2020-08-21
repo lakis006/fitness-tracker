@@ -16,13 +16,12 @@ Finally! A workout tracker that works for you!
 1. [Description](#Description)
 2. [Installation](#Installation)
 3. [Usage](#Usage)
-4. 
+4. [Screenshots](#Screenshots)
 
 
 ## Description
 
-The Fitness Tracker enables the user to create and add workouts to a database and track these workouts in a dashboard. The user can also go in and continue old workouts and achieve their fitness goals. Lastly, a stats page will end up getting generated.
-The user has the capability to add either cardio or resistance training to a mongo database. The user input is stored by day. This fitness tracker also provides the user with a series of charts to view their fitness progress by day, by duration of each exercise, and by pounds lifted.
+The Fitness Tracker enables the user to create and add workouts to a database and track these workouts in a dashboard. The user can also go in and continue old workouts and achieve their fitness goals. Lastly, a stats page will end up getting generated. The user has the capability to add either cardio or resistance training to a mongo database. The user input is stored by day. This fitness tracker also provides the user with a series of charts to view their fitness progress by day, by duration of each exercise, and by pounds lifted.
 
 
 ## Installation
@@ -50,8 +49,6 @@ node server.js
 * Choose to complete the workout or add another exercise.
 * Once workout is complete the user selects "Complete". Then they are taken back to the home screen where they can view their last workout information.
 * User may navigate to the dashboard page to view charts representing their workout progress. Categories include duration of workout by day, duration by exercise type, weight lifted by exercise, and weight lifted by day.
-
-
 
 
 ## Screenshots
