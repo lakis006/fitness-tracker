@@ -1,9 +1,7 @@
 # The Fitness Tracker
 
-
-
+Finally! A workout tracker that works for you!
  
-
 ## Technologies Used
 
 * [Express.js](https://expressjs.com/)
@@ -18,7 +16,7 @@
 1. [Description](#Description)
 2. [Installation](#Installation)
 3. [Usage](#Usage)
-4. [License](#License)
+4. 
 
 
 ## Description
@@ -38,13 +36,13 @@ npm install
 
 ## Usage
 
-* This app is simple to run and is set up to use port 8000 for local running. Start the program in terminal with the code below:
+* This app is simple to run and is set up to use port 7000 for local running. Start the program in terminal with the code below:
 
 ```
 node server.js 
 ```
 
-* Another way to run this App is to, Navigate to [Heroku site](https://lakis006.github.io/fitness-tracker/) and get started to use this Application.
+* Another way to run this App is to, Navigate to [Heroku site](https://fitness-mongo.herokuapp.com/) and get started to use this Application.
 
 * In the home page the user is presented with their last workout. If they choose to continue they may click "Continue Workout" to add another exercise.
 * If the user wants to begin a new workout press the "New Workout" button.
@@ -54,10 +52,10 @@ node server.js
 * User may navigate to the dashboard page to view charts representing their workout progress. Categories include duration of workout by day, duration by exercise type, weight lifted by exercise, and weight lifted by day.
 
 
-[MIT](public/assets/license.txt) license
+
 
 ## Screenshots
 
-<!-- ![](public/assets/images/image1.png)
-![](public/assets/images/image2.png) -->
+![](public/assets/bench-input.png)
+![](public/assets/bench-results.png)
 
